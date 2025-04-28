@@ -17,17 +17,16 @@ background-color: #d87093;
 font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.second {
+#second {
 color: #0000ff;
 font-size: 36px;
 }
 
-.third {
+.fontsize{
 font-size: 24px;
 }
 
-.fourth {
+#fourth {
 background-color: #90ee90;
-font-size: 24px;
 font-weight: bold;
 }
